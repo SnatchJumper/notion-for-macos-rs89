@@ -1,4 +1,4 @@
-#  
+#  new Automation for Notion for macOS - tags and reminders is the best Notion for macOS automation, featuring tags and reminders. Safe, efficient, and optimized for macOS users.
 
 
 
